@@ -819,4 +819,14 @@ a:focus{
 /**********************************************************************************/
 
 
+.treatment_all_comm_div .your_privacy_matter_section{
+    padding: 40px;
+    background-color: #e0f3ff;
+    border-radius: 20px;
+}
 
+@media (max-width:600px){
+    .treatment_all_comm_div .your_privacy_matter_section{
+    border-radius: 0px;
+}
+}
